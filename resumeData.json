@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Raza Hussain",
+    "occupation":"",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Hello, my name is Raza and I am a senior undergraduate majoring in Information Techonology and an aspiring cloud engineer. I have a background in creating both front-end and back-end web applications with multiple techonolgies. I currently hold AWS Solutions Architect Associate certification and AWS Developer Associate while I'm also working towards obtaining the AWS SysOps certification as well. Presently, I am seeking for new opportunities to advance my knowledge and expertise.",
+    "email": "razahuss02@gmail.com",
+    "phone": "(321) 287-6016",
+    "address":{
+      "city":"Orlando, ",
+      "state":"FL"
+    },
+    "website": "http://www.razahussain.com",
+    "resumedownload":"http://razahussain.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/razahuss2",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/razahuss/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/razahuss",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Florida International University",
+        "degree":"B.S. Information Technology",
+        "graduated":"Present"
+      },
+      {
+        "school":"Valencia College",
+        "degree":"Computer Programming & Analysis",
+        "graduated":"2014",
+        "description":"Obtaining my degree in the I.T. field has helped solidify my skillsets such as Java programming. I've also got to learn more in depth about Systems Administratiion, Automation, Networking, Security, and Databases. A few hands on projects at school also allowed me to learn more about Linux and using VMs such as Kali Linux, Ubuntu, and even Docker containers. "
+      }
+    ],
+    "certification":[
+      {
+        "company":"AWS Solutions Architect Associate",
+        "cert":"Amazon Web Services",
+        "date":"Valid until August 2023",
+        "validation":"Validation Number: HJCEJQY1FB4E1N94"
+      },
+      {
+        "company":"AWS Developer Associate",
+        "cert":"Amazon Web Services",
+        "date":"Valid until October 2023",
+        "validation":"Validation Number: HJCEJQY1FB4E1N94"
+      }
+    ],
+    "badge":[
+      {
+        "badge":"saa.png",
+        "verify":"https://www.youracclaim.com/badges/318adf3f-c341-4c86-8c3f-f55b3bb15f0c"
+      },
+      {
+        "badge":"dev.png",
+        "verify":"https://www.youracclaim.com/badges/318adf3f-c341-4c86-8c3f-f55b3bb15f0c"
+      }
+    ],
+    "skills":[
+      {
+        "name":"AWS",
+        "level":"70%"
+      },
+      {
+        "name":"Terraform",
+        "level":"80%"
+      },
+      {
+        "name":"CloudFormation",
+        "level":"70%"
+      },
+      {
+        "name":"Serverless",
+        "level":"75%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Linux",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Resume Website",
+        "category":"My resume website to showcase my skillset",
+        "image":"resume-website.jpg",
+        "url":"https://www.razahussain.com"
+      },
+      {
+        "title":"Scratch",
+        "category":"A simple note taking app",
+        "image":"scratch.jpg",
+        "url":"https://serverless-stack-notes.netlify.app"
+      }
+    ]
+  }
+}
