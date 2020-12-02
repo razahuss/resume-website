@@ -47,6 +47,12 @@
     ],
     "certification":[
       {
+        "company":"AWS SysOps Administrator Associate",
+        "cert":"Amazon Web Services",
+        "date":"Valid until December 2023",
+        "validation":"Validation Number: TX8TZLTL1FVE1890"
+      },
+      {
         "company":"AWS Solutions Architect Associate",
         "cert":"Amazon Web Services",
         "date":"Valid until August 2023",
@@ -61,6 +67,10 @@
     ],
     "badge":[
       {
+        "badge":"sys.png",
+        "verify":"https://www.youracclaim.com/badges/6cb0ae2b-fa22-43f8-9a16-9666cc1208f5"
+      },
+      {
         "badge":"saa.png",
         "verify":"https://www.youracclaim.com/badges/318adf3f-c341-4c86-8c3f-f55b3bb15f0c"
       },
@@ -72,7 +82,7 @@
     "skills":[
       {
         "name":"AWS",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Terraform",
@@ -107,13 +117,25 @@
         "level":"90%"
       },
       {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
         "name":"Java",
         "level":"70%"
       },
       {
         "name":"SQL",
         "level":"80%"
-      }
+      },
+      {
+        "name":"Docker",
+        "level":"50%"
+      },
 
     ]
   },
